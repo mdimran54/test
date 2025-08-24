@@ -1,0 +1,16 @@
+.text {
+    line-height: 1.6;
+    color: #e41717;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+.h1-text {
+    font-size: 2.5rem;
+    margin-bottom: 0.5em;
+    color: rgb(26, 26, 27);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(23, 189, 215);
+}
